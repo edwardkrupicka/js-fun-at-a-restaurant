@@ -33,7 +33,7 @@ function searchOrder(deliveryOrders, item) {
     }
   }
   return false;
-}
+};
 
 
 module.exports = {
